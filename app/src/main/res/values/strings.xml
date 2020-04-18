@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fazy Księżyca</string>
+
+    <string-array name="algorithms">
+        <item>Simple</item>
+        <item>Conway</item>
+        <item>Trig1</item>
+        <item>Trig2</item>
+    </string-array>
+</resources>
